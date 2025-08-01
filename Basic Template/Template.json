@@ -12,7 +12,7 @@
       "#define ll long long",
       "#define ld long double",
       "#define nline \"\\n\"",
-      "#define set_bits __builtin_popcountll" 
+      "#define set_bits __builtin_popcountll",
       "",
       "template<typename T> inline T abs(T a){ return ((a < 0) ? -a : a); }",
       "template<typename T> inline T sqr(T a){ return a * a; }",
